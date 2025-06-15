@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /terms&conditions
+
+//https://developers.google.com/search/docs/crawling-indexing/robots-meta-tag?hl=en
+User-agent: *
+Disallow: /terms&conditions
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+Sitemap: https://www.w3beconomy.uk/sitemap.xml
+
+Sitemap: http://www.w3beconomy.uk/sitemap.xml
